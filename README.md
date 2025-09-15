@@ -1,3 +1,4 @@
 # fsdsdp
 
-welcome
+welcome push
+fsd pull
